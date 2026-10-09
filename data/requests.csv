@@ -1,0 +1,37 @@
+﻿Request ID,Date received,Request category,Short description,Priority,Assigned owner,Status,Target completion date,Last update date,Next action,Closed date,Blocker or dependency,Source or evidence note
+DS-001,2026-09-01,Access,New starter cannot open shared library,High,Access Analyst,Completed,2026-09-03,2026-09-03,Confirm access with requester,2026-09-03,,Synthetic ticket note
+DS-002,2026-09-02,Information,Intake form lacks service area,Medium,Service Coordinator,Completed,2026-09-08,2026-09-07,Publish revised form,2026-09-07,,Synthetic form review
+DS-003,2026-09-03,Reporting,Weekly count differs from source list,High,Reporting Analyst,In Progress,2026-09-30,2026-10-06,Reconcile excluded duplicate rows,,Source-list definition needed,Synthetic reconciliation note
+DS-004,2026-09-04,Workflow,Approval step routes to old role,Medium,Workflow Analyst,Completed,2026-09-15,2026-09-12,Confirm routing with team,2026-09-12,,Synthetic workflow check
+DS-005,2026-09-05,Document,Guide links to retired template,Low,Content Editor,Completed,2026-09-18,2026-09-16,Archive old link,2026-09-16,,Synthetic document review
+DS-006,2026-09-07,Access,Shared mailbox member cannot read folder,High,Access Analyst,Blocked,2026-09-23,2026-10-05,Request manager approval for access,,Manager approval outstanding,Synthetic access note
+DS-007,2026-09-08,Information,Request submitted without contact method,Medium,Service Coordinator,Blocked,2026-09-22,2026-10-02,Ask intake team for contact route,,Requester details unavailable,Synthetic intake note
+DS-008,2026-09-09,Reporting,Add category split to monthly pack,Medium,Reporting Analyst,Completed,2026-09-25,2026-09-24,File approved chart,2026-09-24,,Synthetic reporting note
+DS-009,2026-09-10,Workflow,Escalation email sends twice,High,Workflow Analyst,In Progress,2026-10-02,2026-10-06,Test revised automation rule,,,Synthetic test log
+DS-010,2026-09-11,Document,Policy note needs version owner,Medium,Content Editor,In Progress,2026-10-10,2026-10-05,Confirm document custodian,,,Synthetic content note
+DS-011,2026-09-12,Access,Temporary contributor needs library access,Low,Access Analyst,Completed,2026-09-19,2026-09-18,Record permission expiry,2026-09-18,,Synthetic access note
+DS-012,2026-09-14,Information,Service description uses unclear term,Low,Service Coordinator,Completed,2026-09-29,2026-09-28,Publish plain-language wording,2026-09-28,,Synthetic review note
+DS-013,2026-09-15,Reporting,Dashboard refresh instructions are outdated,Medium,Reporting Analyst,Blocked,2026-10-01,2026-10-06,Obtain current refresh owner steps,,Technical owner input outstanding,Synthetic reporting note
+DS-014,2026-09-16,Workflow,Handoff checklist misses evidence link,Medium,Workflow Analyst,Completed,2026-09-30,2026-09-29,Add link to checklist,2026-09-29,,Synthetic checklist review
+DS-015,2026-09-17,Document,FAQ needs accessibility review,Medium,Content Editor,In Progress,2026-10-14,2026-10-06,Send draft for accessibility review,,,Synthetic editorial note
+DS-016,2026-09-18,Access,Contractor account renewal unclear,High,Access Analyst,Blocked,2026-10-05,2026-10-06,Confirm renewal authority,,Sponsor decision outstanding,Synthetic access note
+DS-017,2026-09-19,Information,Missing requested completion date,Low,Service Coordinator,New,2026-10-12,2026-10-04,Clarify delivery need,,,Synthetic intake note
+DS-018,2026-09-21,Reporting,Summary uses inconsistent status names,Medium,Reporting Analyst,Completed,2026-09-30,2026-09-30,Confirm approved status list,2026-09-30,,Synthetic QA note
+DS-019,2026-09-22,Workflow,Request reassignment lacks notification,Medium,Workflow Analyst,In Progress,2026-10-16,2026-10-05,Draft notification rule,,,Synthetic workflow note
+DS-020,2026-09-23,Document,Training page shows stale screenshot,Low,Content Editor,Completed,2026-10-02,2026-10-01,Replace screenshot,2026-10-01,,Synthetic page review
+DS-021,2026-09-24,Access,New owner role missing permission group,High,,New,2026-10-09,2026-10-06,Assign access owner and verify group,,Owner assignment pending,Synthetic intake note
+DS-022,2026-09-25,Information,Requester gave two conflicting dates,Medium,Service Coordinator,Blocked,2026-10-06,2026-10-06,Confirm correct deadline,,Requester clarification outstanding,Synthetic intake note
+DS-023,2026-09-26,Reporting,Need source note for monthly metric,Medium,Reporting Analyst,In Progress,2026-10-13,2026-10-05,Document calculation and source,,,Synthetic metric note
+DS-024,2026-09-28,Workflow,Completed item still appears in queue,High,Workflow Analyst,Completed,2026-10-06,2026-10-06,Confirm queue filter fix,2026-10-06,,Synthetic test log
+DS-025,2026-09-29,Document,Decision log needs plain-language summary,Low,Content Editor,New,2026-10-20,2026-10-02,Draft short summary,,,Synthetic document note
+DS-026,2026-09-30,Access,Guest access request missing sponsor,Medium,Access Analyst,Blocked,2026-10-06,2026-10-06,Request named sponsor,,Sponsor information missing,Synthetic access note
+DS-027,2026-10-01,Information,Intake form asks duplicate question,Low,Service Coordinator,In Progress,2026-10-21,2026-10-06,Propose form change,,,Synthetic form review
+DS-028,2026-10-01,Reporting,Briefing table needs category totals,Medium,Reporting Analyst,Completed,2026-10-05,2026-10-05,File reconciled totals,2026-10-05,,Synthetic reporting note
+DS-029,2026-10-02,Workflow,Status reminder runs on closed item,Medium,Workflow Analyst,New,2026-10-15,2026-10-05,Review reminder condition,,,Synthetic automation note
+DS-030,2026-10-02,Document,Archive index missing owner field,Low,Content Editor,Completed,2026-10-06,2026-10-06,Update archive index,2026-10-06,,Synthetic archive note
+DS-031,2026-10-03,Access,Permission exception needs review,High,Access Analyst,In Progress,2026-10-08,2026-10-06,Check exception rationale,,,Synthetic access note
+DS-032,2026-10-03,Information,Submission lacks service category,Medium,,New,2026-10-11,2026-10-05,Assign coordinator and classify,,Classification pending,Synthetic intake note
+DS-033,2026-10-04,Reporting,Completed record lacks close date,Medium,Reporting Analyst,Completed,2026-10-06,2026-10-06,Confirm closure date and correct record,,,Synthetic deliberate status inconsistency
+DS-034,2026-10-04,Workflow,Target date precedes received date,Medium,Workflow Analyst,In Progress,2026-10-02,2026-10-06,Confirm target date with requester,,,Synthetic deliberate date inconsistency
+DS-035,2026-10-05,Document,New template title needs review,Low,Content Editor,New,2026-10-19,2026-10-06,Review title and file name,,,Synthetic document note
+DS-036,2026-10-06,Access,Access review list needs owner signoff,Medium,Access Analyst,New,2026-10-17,2026-10-06,Send list to access owner,,,Synthetic access note

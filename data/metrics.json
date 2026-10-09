@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-10-07",
+  "period": "1 September to 6 October 2026",
+  "total": 36,
+  "status": {
+    "Completed": 14,
+    "In Progress": 9,
+    "Blocked": 6,
+    "New": 7
+  },
+  "category": {
+    "Access": 8,
+    "Information": 7,
+    "Reporting": 7,
+    "Workflow": 7,
+    "Document": 7
+  },
+  "priority": {
+    "High": 8,
+    "Medium": 19,
+    "Low": 9
+  },
+  "open": 22,
+  "overdue": 9,
+  "blocked": 6,
+  "missing_owner": 2,
+  "data_issue": 2,
+  "overdue_ids": [
+    "DS-003",
+    "DS-006",
+    "DS-007",
+    "DS-009",
+    "DS-013",
+    "DS-016",
+    "DS-022",
+    "DS-026",
+    "DS-034"
+  ],
+  "missing_owner_ids": [
+    "DS-021",
+    "DS-032"
+  ],
+  "data_issue_ids": [
+    "DS-033",
+    "DS-034"
+  ],
+  "high_open": 6
+}
